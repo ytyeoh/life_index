@@ -1,4 +1,4 @@
-# life_index
+# speial index
 ## 保险拒赔
 1. https://www.sinchew.com.my/news/20211129/nation/3450745
 
